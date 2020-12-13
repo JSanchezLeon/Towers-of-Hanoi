@@ -27,7 +27,7 @@ for i in range(num_disks,0,-1):
 
 num_optimal_moves = (2**num_disks) - 1
 
-print("\nThe fastes you can solve this game is in {0} movers".format(num_optimal_moves))
+print("\nThe fastes you can solve this game is in {0} moves".format(num_optimal_moves))
 
 def get_input():
 
